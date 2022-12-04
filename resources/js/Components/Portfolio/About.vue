@@ -7,7 +7,7 @@
     <kinesis-container event="scroll">
       <kinesis-element type="translate" :strength="150"
         class="mb-0 mt-10 sm:-mb-20 md:mb-0 flex-shrink-0 w-[128px] h-[128px] sm:w-28 sm:h-28  rounded-full object-cover md:rounded-lg md:w-64 md:h-56 xl:w-[500px] xl:h-[600px] ease-in hover:scale-150 motion-safe:ease-in-out duration-500">
-        <img src="@/assets/Cid.png"
+        <img src="@/assets/tonyme2.jpg"
           class="mb-0 mt-10 sm:-mb-20 md:mb-0 flex-shrink-0 w-[128px] h-[128px] sm:w-28 rounded-full object-cover md:rounded-lg md:w-64 md:h-56 xl:w-[500px] xl:h-[600px] ease-in hover:scale-150 motion-safe:ease-in-out duration-500" />
       </kinesis-element>
     </kinesis-container>
