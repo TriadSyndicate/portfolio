@@ -8,7 +8,7 @@
             Experience
         </h3>
     
-            <div class="flex space-x-1 sm:space-x-5 w-full overflow-x-scroll p-10 snap-x snap-mandatory scrollbar scrollbar-track-gray-300/10 scrollbar-thumb-green-500/60">
+            <div class="flex space-x-1 sm:space-x-5 w-full overflow-x-scroll p-10 snap-x snap-proximity scrollbar scrollbar-track-gray-300/10 scrollbar-thumb-green-500/60">
                     <ExperienceCard v-for="(exp, i) in experiences" :key="i" :experience="exp"/>
             </div>
        

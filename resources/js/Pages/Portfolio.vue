@@ -2,7 +2,7 @@
     <head>
         <title>Portfolio</title>
     </head>
-    <div class="bg-[rgb(36,36,36)] text-white h-screen snap-y snap-mandatory overflow-x-hidden overflow-scroll z-0 scrollbar scrollbar-track-gray-500/10 scrollbar-thumb-green-500/40 scroll-smooth">
+    <div class="bg-[rgb(36,36,36)] text-white h-screen snap-y snap-proximity overflow-x-hidden overflow-scroll z-0 scrollbar scrollbar-track-gray-500/10 scrollbar-thumb-green-500/40 scroll-smooth">
         <Navbar/>
         <section id="hero" class="snap-start">
             <Hero/>

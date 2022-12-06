@@ -8,7 +8,7 @@
             Projects
         </h3>
         <div
-            class="flex space-x-4 w-full overflow-x-scroll p-10 snap-x snap-mandatory scroll-smooth scrollbar scrollbar-track-gray-300/10 scrollbar-thumb-green-500/60"
+            class="flex space-x-4 w-full overflow-x-scroll p-10 snap-x snap-proximity scroll-smooth scrollbar scrollbar-track-gray-300/10 scrollbar-thumb-green-500/60"
         >
             <ProjectCard
                 v-for="(project, index) in projects"
